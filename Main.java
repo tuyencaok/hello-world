@@ -17,7 +17,7 @@ import javax.swing.*;
 
 public class Main
 {
-
+    System.out.println ("This is a test of a pull request");
     public static void main(String[] args)
     {
         System.out.println ("This is an update from test branch, check if it appear on master branch when pull from master to test");
