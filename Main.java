@@ -20,6 +20,7 @@ public class Main
 
     public static void main(String[] args)
     {
+        System.out.println ("This is an update from test branch, check if it appear on master branch when pull from master to test");
         //set UI STYLE for our program
         try {
            /* for (UIManager.LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
