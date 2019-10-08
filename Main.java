@@ -39,9 +39,9 @@ public class Main
         } catch (InstantiationException ex) {
         } catch (IllegalAccessException ex) {
         } catch (UnsupportedLookAndFeelException ex) {
-            System.out.println("NO SUPPORT FOR UI");
+            //System.out.println("NO SUPPORT FOR UI");
         } catch (Exception system) {
-            system.printStackTrace();
+            //system.printStackTrace();
         }
 
         new MainFrame();
