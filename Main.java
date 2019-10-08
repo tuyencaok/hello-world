@@ -17,7 +17,7 @@ import javax.swing.*;
 
 public class Main
 {
-
+    System.out.println ("This is a test of a pull request");
     public static void main(String[] args)
     {
         //set UI STYLE for our program
